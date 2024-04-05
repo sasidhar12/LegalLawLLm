@@ -1,0 +1,10 @@
+venv
+.env
+.vscode/
+node_modules/
+__pycache__
+.idea/
+fiass_db
+ngrok.exe
+data
+ngrok.exe
